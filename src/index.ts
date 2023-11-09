@@ -1478,7 +1478,7 @@ const animatedIncrementer = () => {
 
 // fancyCaptionGeneratorSelect();
 // fancyCaptionGeneratorLighten();
-fancyCaptionAppear();
+// fancyCaptionAppear();
 // pixiFancyCaptionAppear();
 
 // pixiCanvasMultiSync();
@@ -1492,5 +1492,5 @@ fancyCaptionAppear();
 // layoutText();
 
 // animate();
-// animateMirror();
+animateMirror();
 // animatedIncrementer();
